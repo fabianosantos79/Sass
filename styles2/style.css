@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+}
+.container .esquerdo {
+  width: 50%;
+  background-color: blueviolet;
+}
+.container .esquerdo .texto {
+  font-size: 150px;
+  color: aquamarine;
+  text-align: center;
+  margin-top: 200px;
+}
+.container .direito {
+  width: 50%;
+  background-color: aquamarine;
+}
+.container .direito .texto {
+  font-size: 150px;
+  color: blueviolet;
+  text-align: center;
+  margin-top: 200px;
+}/*# sourceMappingURL=style.css.map */
